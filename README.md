@@ -1,0 +1,1 @@
+# pazick.js
